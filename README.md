@@ -8,8 +8,6 @@ Automate farming, combat, quests, darksteel mining and more with computer vision
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Stars](https://img.shields.io/github/stars/yourusername/mir4-bot?style=for-the-badge)
-![License](https://img.shields.io/github/license/yourusername/mir4-bot?style=for-the-badge)
 
 ---
 
