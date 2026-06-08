@@ -2,6 +2,14 @@
 
 ![MIR4 Bot Banner](https://github.com/AlexCohenis/Mir4-Bot-2026/blob/main/MIR4%20Bot%20Github.png)
 
+---
+
+### Bot Guide
+
+https://docsend.com/view/d8t573pcqr6dia72
+
+---
+
 **Advanced Automation Bot for MIR4 (Dragonverse)** — The most powerful and user-friendly MIR4 bot in 2026.
 
 Automate farming, combat, quests, darksteel mining and more with computer vision + AI.
