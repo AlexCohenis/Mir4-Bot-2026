@@ -52,3 +52,9 @@ Supported Emulators: LDPlayer 9, BlueStacks 5, MuMu Player 12
 This bot is for educational and personal use only. Use at your own risk. We are not responsible for any account bans.
 
 ---
+
+### Topics
+
+`mir4` `mir4-bot` `mir4-auto-farm` `game-bot` `mmorpg-bot` `computer-vision` `opencv` `python-bot`
+
+---
