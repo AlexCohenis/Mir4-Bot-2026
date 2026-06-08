@@ -1,6 +1,6 @@
 # MIR4 Bot 2026
 
-![MIR4 Bot Banner](assets/images/banner.png)
+![MIR4 Bot Banner](https://github.com/AlexCohenis/Mir4-Bot-2026/blob/main/MIR4%20Bot%20Github.png)
 
 **Advanced Automation Bot for MIR4 (Dragonverse)** — The most powerful and user-friendly MIR4 bot in 2026.
 
