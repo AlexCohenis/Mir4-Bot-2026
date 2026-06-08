@@ -1,0 +1,13 @@
+{
+  "emulator": "ldplayer",
+  "window_title": "MIR4",
+  "accounts": [
+    {"name": "Account1", "email": "", "password": ""}
+  ],
+  "settings": {
+    "auto_farm": true,
+    "auto_darksteel": true,
+    "combat_mode": "smart",
+    "debug_mode": true
+  }
+}
